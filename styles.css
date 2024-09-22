@@ -11,3 +11,7 @@ body {
     display: flex;
     text-align: center;
 }
+
+html.main-title {
+    margin-top: 0px;
+}

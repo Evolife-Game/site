@@ -7,9 +7,11 @@ body {
     background-color: #00bd63;
     font-size: 30px;
     font-weight: bold;
-    margin: 0px;
     display: flex;
     text-align: center;
+}
+body.main-title {
+    margin: 0px;
 }
 
 html.main-title {

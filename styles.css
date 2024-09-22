@@ -6,7 +6,6 @@ body {
 
 p {
     margin: 8px;
-    font-size: 15px;
 }
 
     /* Titre */
@@ -37,6 +36,7 @@ html.main-title {
 .menu {
     display: flex;
     justify-content: space-between;
+    justify-content: center;
     background-color: #00bd63;
     border-radius: 15px;
     border: 2px solid black;

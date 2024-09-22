@@ -4,14 +4,20 @@ body {
     margin: 0px;
 }
 
+p {
+    margin: 8px;
+    font-size: 15px;
+}
+
+    /* Titre */
 .main-title {
     background-color: #00bd63;
     font-size: 40px;
     font-weight: bold;
     display: flex;
     justify-content: center;
-    border-radius: 5px;
-    border-color: black;
+    border-radius: 15px;
+    border: 2px solid black;
 }
 
 p.main-title {
@@ -25,4 +31,13 @@ body.main-title {
 
 html.main-title {
     margin-top: 0px;
+}
+
+    /* Menu */
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #00bd63;
+    border-radius: 15px;
+    border: 2px solid black;
 }

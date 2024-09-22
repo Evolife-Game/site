@@ -8,5 +8,6 @@ body {
     font-size: 30px;
     font-weight: bold;
     margin: 0px;
-    align-items: center;
+    display: flex;
+    text-align: center;
 }

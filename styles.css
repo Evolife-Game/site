@@ -19,7 +19,7 @@ p {
     border: 2px solid black;
 }
 
-p.main-title {
+.main-title > * {
     margin-top: 10px;
     margin-bottom: 10px;
 }
